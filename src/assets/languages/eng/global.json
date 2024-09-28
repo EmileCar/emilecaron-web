@@ -1,0 +1,61 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About me",
+        "projects": "Projects"
+    },
+    "hero": {
+        "webDev": {
+            "title": "Web Developer",
+            "description": "I am a $$AGE$$ year old student with a great interest in computer science and driven to further build my skills and knowledge in the world of software development. I am convinced that I can make a valuable contribution to any team or project through my passion for programming and willingness to learn and grow.",
+            "buttons": {
+                "cv": "Download CV",
+                "contact": "Contact me"
+            }
+        },
+        "pianist": {
+            "title": "Pianist",
+            "description": "Music is a significant hobby for me. Both listening and playing have always meant a lot to me. I've been playing the piano for as long as I can remember, but it became more serious after attending music school and learning both the accordion and bass guitar. I'm definitely not a professional, but I enjoy playing for myself and others.",
+            "buttons": {
+                "contact": "Contact me"
+            }
+        }
+    },
+    "quickInfo": {
+        "title": "Quick info",
+        "location": "Location",
+        "education": "Education",
+        "educationDetail": "Bachelor of Applied Computer Science",
+        "educationSchool": "VIVES University",
+        "link": "Link to profile $$here$$"
+    },
+    "projects": {
+        "webDev": {
+            "title": "My projects",
+            "description": "Here are some of the projects I've worked on. Click on a project to learn more about it."
+        },
+        "pianist": {
+            "title": "My personal playlist",
+            "description": "Here are some of my favorite songs I learned to play. Click on a song to listen to it."
+        }
+    },
+    "about": {
+        "title": "About me",
+        "musicschool": {
+            "title": "Followed music school at academy SAMWD",
+            "description": "I followed music school (primary & secondary) at SAMWD from 2011 to 2017. I started with 6 years of accordeon, but later outside of school I also learned to play the piano and bass guitar."
+        },
+        "ksa": {
+            "title": "Leader at KSA Oosterzele",
+            "description": "I have been a co-leader at KSA Oosterzele (our local youth movement) since 2019. In 2020, I completed an animator course with recognition from KSA Expies."
+        },
+        "exchange": {
+            "title": "Exchange to Brasil",
+            "description": "In the 6th grade of high school, from August 2019 to November 2019, I went on an exchange to Brazil with the exchange organization AFS."
+        },
+        "highschool": {
+            "title": "Graduated at high school Don Bosco Zwijnaarde",
+            "description": "I completed my secondary education at Don Bosco Zwijnaarde in 2020, where I studied Latin-Sciences."
+        }
+    }
+}

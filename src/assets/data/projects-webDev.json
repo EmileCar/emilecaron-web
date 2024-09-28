@@ -1,0 +1,80 @@
+
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "KSA Oosterzele website",
+            "description": "project1.description",
+            "technologies": ["ReactJS", "PHP", "Laravel"],
+            "assignee": "Personal project",
+            "links": [
+                {
+                    "name": "Live",
+                    "url": "https://ksaoosterzele.be",
+                    "icon": "link"
+                }
+            ],
+            "image": "assets/images/webdevProjects/ksaoosterzele.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Ann De Winter website",
+            "description": "project2.description",
+            "technologies": ["Full-Stack", "PHP", "Laravel"],
+            "assignee": "Personal project",
+            "links": [
+                {
+                    "name": "Live",
+                    "url": "https://anndewinter.be",
+                    "icon": "link"
+                }
+            ],
+            "image": "assets/images/webdevProjects/anndewinter.jpg"
+        },
+        {
+            "id": 3,
+            "name": "High Hopes",
+            "description": "project3.description",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "assignee": "Personal project",
+            "links": [
+                {
+                    "name": "Live",
+                    "url": "https://emilecaron.be/highhopes",
+                    "icon": "link"
+                }
+            ],
+            "image": "assets/images/webdevProjects/highhopes.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Eventplannr",
+            "description": "project4.description",
+            "technologies": ["React Native", "Cross-Platform"],
+            "assignee": "Personal project",
+            "links": [
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/EmileCar/eventplannr",
+                    "icon": "link"
+                }
+            ],
+            "image": "assets/images/webdevProjects/eventplannr.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Flag Quiz Android App",
+            "description": "project5.description",
+            "technologies": ["Android", "Kotlin"],
+            "assignee": "My first real Android project",
+            "links": [
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/EmileCar/FlagQuizApp",
+                    "icon": "link"
+                }
+            ],
+            "image": "assets/images/webdevProjects/flagquiz.jpg"
+        }
+    ]
+}

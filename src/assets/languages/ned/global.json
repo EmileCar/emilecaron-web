@@ -1,0 +1,61 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "Over mij",
+        "projects": "Projecten"
+    },
+    "hero": {
+        "webDev": {
+            "title": "Web Developer",
+            "description": "Ik ben een $$AGE$$-jarige student met veel interesse in informatica en gedreven om mijn vaardigheden en kennis verder op te bouwen in de wereld van software-ontwikkeling. Ik ben ervan overtuigd dat ik een waardevolle bijdrage kan leveren aan elk team of project door mijn passie voor programmeren en bereidheid om te leren en groeien.",
+            "buttons": {
+                "cv": "Download CV",
+                "contact": "Contacteer mij"
+            }
+        },
+        "pianist": {
+            "title": "Pianist",
+            "description": "Muziek is een belangrijke hobby voor mij. Het luisteren en spelen hebben altijd veel voor me betekend. Ik speel al piano sinds ik me kan herinneren, maar het werd pas serieus nadat ik muziekschool had gevolgd en zowel de accordeon als de basgitaar had geleerd. Ik ben zeker geen professional, maar ik speel met plezier voor mezelf en anderen.",
+            "buttons": {
+                "contact": "Contacteer mij"
+            }
+        }
+    },
+    "quickInfo": {
+        "title": "Quick info",
+        "location": "Locatie",
+        "education": "Opleiding",
+        "educationDetail": "Bachelor toegepaste informatica",
+        "educationSchool": "Hogeschool VIVES",
+        "link": "Link $$hier$$ naar mijn profiel"
+    },
+    "projects": {
+        "webDev": {
+            "title": "Mijn projecten",
+            "description": "Hier zijn enkele projecten waaraan ik heb gewerkt. Klik op een project om er meer over te weten te komen."
+        },
+        "pianist": {
+            "title": "Mijn persoonlijke playlist",
+            "description": "Hier zijn enkele van mijn favoriete nummers die ik heb geleerd te spelen. Klik op een nummer om ernaar te luisteren."
+        }
+    },
+    "about": {
+        "title": "Over mij",
+        "musicschool": {
+            "title": "Muziekschool gevolgd bij SAMWD",
+            "description": "Ik heb de muziekschool (1e en 2e graad) gevolgd aan SAMWD van 2011 tot 2017. Ik begon met 6 jaar accordeon, maar later buiten muziekschool heb ik ook geleerd om piano en basgitaar te spelen."
+        },
+        "ksa": {
+            "title": "Leider bij KSA Oosterzele",
+            "description": "Na een lange tijd lid te zijn, ben ik sinds 2019 medeleiding bij KSA Oosterzele. In 2020 heb ik een animatorcursus voltooid met Expies van KSA."
+        },
+        "exchange": {
+            "title": "Uitwisseling naar Brazilië",
+            "description": "In het 6e middelbaar van augustus 2019 - november 2019 ging ik op uitwisseling naar Brazilië met uitwisselingsorganisatie AFS. Zo leerde ik nieuwe culturen en gewoontes kennen."
+        },
+        "highschool": {
+            "title": "Afgestudeerd op Don Bosco Zwijnaarde",
+            "description": "Ik heb mijn middelbare schoolopleiding afgerond aan Don Bosco Zwijnaarde in 2020, waar ik Latijn-wetenschappen heb gevolgd."
+        }
+    }
+}
