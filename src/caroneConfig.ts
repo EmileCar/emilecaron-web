@@ -12,13 +12,13 @@ export const config: CaroneConfig = {
 	},
 	fonts: {
 		mainFont: "'Poppins', 'Helvetica', sans-serif",
-		titleFont: 'Arial',
+		titleFont: "'Poppins', 'Helvetica', sans-serif",
 		sizes: {
 			small: '0.8rem',
 			default: '18px',
-			large: '1.5rem',
+			large: '1.4rem',
 			subtitle: '1.8rem',
-			title: '3rem',
+			title: '2rem',
 		}
 	},
 	sizes: {

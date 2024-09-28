@@ -41,16 +41,39 @@
 }
 
 :root{
-    --grey-color: #ADADAD;
-    --light-grey-color: rgb(229,229,229);
+  --grey-color: #ADADAD;
+  --light-grey-color: rgb(229,229,229);
 }
 
 body {
-    font-family: var(--main-font);
-    line-height: 1.3;
+  font-family: var(--main-font);
+  font-weight: 300;
+  line-height: 1.3;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-family: inherit;
 }
 
 .page .header{
-    background-color: var(--secondary-color);
-    box-shadow: none;
+  background-color: var(--secondary-color);
+  box-shadow: none;
+  color: var(--default-font-color);
+}
+
+.page .header h1{
+  font-weight: 600;
+  font-size: var(--large-font-size);
+}
+
+.page .header .header-link{
+  color: var(--grey-color);
+  transition-duration: 0.5s;
+}
+
+.page .header .header-link:hover{
+  color: var(--default-font-color);
+  background-color: transparent;
 }
