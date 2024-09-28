@@ -1,0 +1,16 @@
+
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    font-size: var(--font-size-large);
+    background-color: var(--main-color);
+    color: var(--font-on-main-color);
+}
+
+.about h1 {
+    font-size: var(--font-size-title);
+}

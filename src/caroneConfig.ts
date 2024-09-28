@@ -3,15 +3,15 @@ import { CaroneConfig } from 'carone-react';
 
 export const config: CaroneConfig = {
 	colors: {
-		main: 'blue',
-		secondary: 'black',
+		main: '#007ced',
+		secondary: '#fff',
 		error: 'red',
 		success: 'green',
-		font: 'green',
-		fontOnMain: 'white',
+		font: '#007ced',
+		fontOnMain: '#fff',
 	},
 	fonts: {
-		mainFont: 'Verdana',
+		mainFont: 'Arial',
 		titleFont: 'Arial',
 		sizes: {
 			small: '0.8rem',
