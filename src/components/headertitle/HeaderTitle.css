@@ -1,0 +1,23 @@
+
+.header__logo--container {
+	text-decoration: none;
+	padding: 0rem 1rem;
+	display: flex;
+	gap: 1rem;
+	align-items: center;
+}
+
+.activity__container{
+	width: 3rem;
+	height: 3rem;
+	border: 4px solid var(--main-color);
+	border-radius: 100%;
+	overflow: hidden;
+	cursor: pointer;
+}
+.activity__container .activity__icon-webDev{
+	transform: scale(0.8) translate(0.1rem, 0.2rem);
+}
+.activity__container .activity__icon-piano{
+	transform: scale(0.9) translate(0.1rem, -0.1rem);
+}

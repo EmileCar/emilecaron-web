@@ -1,12 +1,12 @@
 
 import React from 'react';
 import './Home.css';
-import PageLayout from '../../layouts/Layout';
 import { Section } from 'carone-react';
+import HomeLayout from '../../layouts/HomeLayout';
 
 const Home = () => {
     return (
-        <PageLayout>
+        <HomeLayout>
             <Section centered>
                 <h1>Welcome to your new Carone React App!</h1>
                 <div>
@@ -16,7 +16,7 @@ const Home = () => {
                 </div>
                 <p>To customize your app, please change the values of the <code>config</code> object in <code>src/caroneConfig.ts</code></p>
             </Section>
-        </PageLayout>
+        </HomeLayout>
     );
 };
 

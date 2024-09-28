@@ -7,15 +7,15 @@ export const config: CaroneConfig = {
 		secondary: '#fff',
 		error: 'red',
 		success: 'green',
-		font: '#007ced',
+		font: '#333333',
 		fontOnMain: '#fff',
 	},
 	fonts: {
-		mainFont: 'Arial',
+		mainFont: "'Poppins', 'Helvetica', sans-serif",
 		titleFont: 'Arial',
 		sizes: {
 			small: '0.8rem',
-			default: '1rem',
+			default: '18px',
 			large: '1.5rem',
 			subtitle: '1.8rem',
 			title: '3rem',
@@ -37,5 +37,5 @@ export const config: CaroneConfig = {
 			large: '1rem',
 		}
 	},
-	maxContentWidth: '1200px'
+	maxContentWidth: '1280px'
 };
